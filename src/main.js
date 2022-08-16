@@ -5,6 +5,8 @@ import store from './store'
 
 import '@/components/element-ui'
 
+import 'windi.css'
+
 Vue.config.productionTip = false
 
 new Vue({
