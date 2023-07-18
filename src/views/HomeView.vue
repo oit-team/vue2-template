@@ -11,6 +11,7 @@ export default {
   name: 'HomeView',
   methods: {
     test() {
+      if (true) {}
       this.$message.success('test')
     },
   },
